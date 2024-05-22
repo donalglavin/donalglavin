@@ -1,4 +1,11 @@
-### Hi there 👋
+# Hi there 👋
+Welcome to my personal GitHub, where I keep all my system configurations, helper functions, and scripts. 
+I'm currently a Senior Mechanical Engineer at a mine site in Queensland, Australia. 
+Although my formal training is in mechanical engineering, math and finance, I have a passion for programming & data science (hence the contents of my GitHub).
+
+Please feel free to use my scripts and code however you see fit; I'm a big believer in open source and use other people's work on GitHub as inspiration for my own. So, if you see it and like it, you can have it. *(disclaimer: I take no responsibility for what you do with it or if it breaks something)*
+
+My current projects are split between engineering, finance and data science and primarily exist to make my life easier at home and work. 
 
 <!--
 **donalglavin/donalglavin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
